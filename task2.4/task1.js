@@ -10,7 +10,3 @@ let earthName='Земля';
 let currentUser='Катерина';
 alert(earthName);
 alert(currentUser);
-
-// Використання вел та мал літер та цифр
-
-let 
